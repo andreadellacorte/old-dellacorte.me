@@ -32,7 +32,9 @@
   },
   "devDependencies": {
     "lodash-cli": "^4.17.5",
-    "standard-version": "^4.0.0"
+    "standard-version": "^4.0.0",
+    "lodash": ">=4.17.11"
+}
   },
   "license": "WTFPL"
 }
